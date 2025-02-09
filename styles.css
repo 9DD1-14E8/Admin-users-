@@ -106,3 +106,22 @@ body {
     font-size: 14px;
     border-radius: 5px;
 }
+
+.social-icons {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    background: #fff;
+}
+
+.social-icons a {
+    display: inline-block;
+    margin: 0 15px;
+    font-size: 30px;
+    color: #333;
+    text-decoration: none;
+}
+
+.social-icons a:hover {
+    color: red;
+}
